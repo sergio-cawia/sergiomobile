@@ -17,10 +17,11 @@
         Sergio 
     </author>
 
+    <supports-screens android:anyDensity="true" android:resizeable="true" 
+    	android:smallScreens="true" 
+    	android:normalScreens="true" 
+    	android:largeScreens="true" 
+    	android:xlargeScreens="true" />
+
 </widget>
 
-<supports-screens android:anyDensity="true" android:resizeable="true" 
-    android:smallScreens="true" 
-    android:normalScreens="true" 
-    android:largeScreens="true" 
-    android:xlargeScreens="true" />
