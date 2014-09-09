@@ -2,7 +2,7 @@
 
 if ( $_GET[ "job" ] == "header" )
 {
-	print "This is the header";
+	print "This is the header test";
 	exit;	
 }
 
@@ -14,7 +14,7 @@ if ( $_GET[ "job" ] == "main" )
 
 if ( $_GET[ "job" ] == "replacemain" )
 {
-	print "This is the replacement main content.This is the replacement main content.This is the replacement main content.This is the replacement main content.This is the replacement main content.This is the replacement main content.This is the replacement main content.This is the replacement main content.";
+	print "This is the replacement main content.This is the replacement main content.This is the replacement main content.This is the replacement main content.This is the replacement main content.This is the replacement main content.This is the replacement main content.HELLO.";
 	exit;	
 }
 
